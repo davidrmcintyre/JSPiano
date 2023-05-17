@@ -125,43 +125,43 @@ body {
     }
 
     .black-key:nth-child(1) {
-        left: 39px;
+        left: 35px;
     }
     
     .black-key:nth-child(2) {
-        left: 89px;
+        left: 86px;
     }
     
     .black-key:nth-child(3) {
-        left: 140px;
+        left: 137px;
     }
     
     .black-key:nth-child(4) {
-        left: 245px;
+        left: 240px;
     }
     
     .black-key:nth-child(5) {
-        left: 295px;
+        left: 290px;
     }
     
     .black-key:nth-child(6) {
-        left: 400px;
+        left: 390px;
     }
     
     .black-key:nth-child(7) {
-        left: 452px;
+        left: 427px;
     }
     
     .black-key:nth-child(8) {
-        left: 505px;
+        left: 485px;
     }
     
     .black-key:nth-child(9) {
-        left: 610px;
+        left: 600px;
     }
     
     .black-key:nth-child(10) {
-        left: 660px;
+        left: 640px;
     }
   
     .white-key {
