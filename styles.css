@@ -89,7 +89,7 @@ body {
 /* Responsive adjustments for mobile devices */
 @media only screen and (max-width: 720px) and (max-height:1600px) {
     body {
-        background-color: #007bff;
+      /*  background-color: #007bff; */
         overflow: hidden;
         zoom: 0.65;
     }
@@ -101,7 +101,8 @@ body {
       max-width: 100vh;
       max-height: 70%;
       padding: 0;
-      margin: 0;
+      margin: 150px 0 0 40px;
+      border-radius: 20px;
     }
   
     .keys {
@@ -124,43 +125,43 @@ body {
     }
 
     .black-key:nth-child(1) {
-        left: 48px;
+        left: 39px;
     }
     
     .black-key:nth-child(2) {
-        left: 105px;
+        left: 89px;
     }
     
     .black-key:nth-child(3) {
-        left: 165px;
+        left: 140px;
     }
     
     .black-key:nth-child(4) {
-        left: 285px;
+        left: 245px;
     }
     
     .black-key:nth-child(5) {
-        left: 345px;
+        left: 295px;
     }
     
     .black-key:nth-child(6) {
-        left: 465px;
+        left: 400px;
     }
     
     .black-key:nth-child(7) {
-        left: 525px;
+        left: 452px;
     }
     
     .black-key:nth-child(8) {
-        left: 585px;
+        left: 505px;
     }
     
     .black-key:nth-child(9) {
-        left: 705px;
+        left: 610px;
     }
     
     .black-key:nth-child(10) {
-        left: 765px;
+        left: 660px;
     }
   
     .white-key {
