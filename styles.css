@@ -87,9 +87,12 @@ body {
 }
 
 /* Responsive adjustments for mobile devices */
-@media (max-width: 600px) {
+@media (max-width: 450px) {
     body {
         background-color: #007bff;
+        overflow: hidden;
+        height: 915px;
+        width: 412px;
     }
     
     #piano {
@@ -117,6 +120,7 @@ body {
     .black-key {
       width: 30px;
       height: 120px;
+      position: fixed;
     }
 
     .black-key:nth-child(1) {
@@ -162,5 +166,8 @@ body {
     .white-key {
       width: 60px;
       height: 180px;
+      position:static;
     }
   }
+
+  
