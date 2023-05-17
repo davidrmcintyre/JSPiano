@@ -101,7 +101,7 @@ body {
       max-width: 100vh;
       max-height: 70%;
       padding: 0;
-      margin: 150px 0 0 40px;
+      margin: 180px 0 0 60px;
       border-radius: 20px;
     }
   
@@ -153,11 +153,11 @@ body {
     }
     
     .black-key:nth-child(8) {
-        left: 492px;
+        left: 495px;
     }
     
     .black-key:nth-child(9) {
-        left: 590px;
+        left: 589px;
     }
     
     .black-key:nth-child(10) {
