@@ -4,7 +4,6 @@ body {
     display: flex;
     justify-content: center;
     height: 100vh;
-    width: 100vh;
     align-items: center;
 }
 
@@ -91,8 +90,8 @@ body {
 @media only screen and (max-width: 720px) and (max-height:1600px) {
     body {
         background-color: #007bff;
-        zoom: 1;
         overflow: hidden;
+        zoom: 1;
     }
     
     #piano {
