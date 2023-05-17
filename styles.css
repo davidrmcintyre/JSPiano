@@ -87,10 +87,11 @@ body {
 }
 
 /* Responsive adjustments for mobile devices */
-@media only screen and (max-width: 720px) and (max-height: 1600px) {
+@media only screen and (max-width: 720px) and (max-height:1600px) {
     body {
         background-color: #007bff;
         overflow: hidden;
+        zoom: 1;
     }
     
     #piano {
@@ -108,11 +109,12 @@ body {
       justify-content: center;
       align-items: center;
       height: 100%;
+      width: 100%;
       margin-top: 200px;
     }
   
     .black-keys {
-      margin-left: 0
+      margin-left: 0;
     }
   
     .black-key {
