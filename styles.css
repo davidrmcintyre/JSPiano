@@ -91,7 +91,7 @@ body {
     body {
       /*  background-color: #007bff; */
         overflow: hidden;
-        zoom: 1;
+        zoom: 0.7;
     }
     
     #piano {
