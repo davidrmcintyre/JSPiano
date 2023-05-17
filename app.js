@@ -13,3 +13,7 @@ pianoKeys.forEach((pianoKey, i) => {
 const newUrl = '24-piano-keys/key'+ keys[i] + '.mp3'
     pianoKey.addEventListener('click', () => playSound(newUrl))
 })
+
+var width = window.innerWidth;
+    var height = window.innerHeight;
+    console.log('Width: ' + width + ', Height: ' + height);
